@@ -51,8 +51,8 @@ TOP_DIR = ../..
 TARGET_DIR = .
 
 # project specific files
-SRC =	keymap_common.c \
-	matrix.c \
+# SRC =	keymap_common.c 
+SRC = matrix.c \
 	led.c
 
 KEYMAP ?= smallkey
