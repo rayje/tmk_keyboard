@@ -24,8 +24,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0x047C
 #define DEVICE_VER      36
 #define MANUFACTURER    rayje
-#define PRODUCT         fourkey
-#define DESCRIPTION     fourkey firmware
+#define PRODUCT         smallkey
+#define DESCRIPTION     smallkey firmware
 
 /* key matrix size */
 #define MATRIX_ROWS 2

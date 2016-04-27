@@ -42,7 +42,7 @@
 USB ?= /dev/ttyACM0
 
 # Target file name (without extension).
-TARGET = fourkey
+TARGET = smallkey
 
 # Directory common source filess exist
 TOP_DIR = ../..
@@ -55,7 +55,7 @@ SRC =	keymap_common.c \
 	matrix.c \
 	led.c
 
-KEYMAP ?= fourkey
+KEYMAP ?= smallkey
 SRC := keymap_$(KEYMAP).c $(SRC)
 
 CONFIG_H = config.h
