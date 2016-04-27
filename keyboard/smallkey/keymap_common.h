@@ -37,10 +37,4 @@ extern const uint16_t fn_actions[];
   { K02, K03 }  \
 }
 
-enum function_id {
-  BOOTLOADER,
-};
-
-void bootloader(void);
-
 #endif
