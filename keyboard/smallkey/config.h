@@ -20,9 +20,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x16C0
-#define PRODUCT_ID      0x047C
-#define DEVICE_VER      36
+#define VENDOR_ID       0xDEAD
+#define PRODUCT_ID      0xBEEF
+#define DEVICE_VER      0x0001
 #define MANUFACTURER    rayje
 #define PRODUCT         smallkey
 #define DESCRIPTION     smallkey firmware
